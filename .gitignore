@@ -1,0 +1,47 @@
+# Build artifacts (CMake)
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# Local build output dirs (in-source)
+bin/
+lib/
+lib64/
+
+# Binaries and libs
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Dataset (downloaded separately)
+Riedones3D_Registration_Benchmark/
+
+# IDE / editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Python / notebook artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+*.ipynb
+
+# Generated exports
+*.pdf

@@ -1,0 +1,14 @@
+input=Riedones3D_Registration_Benchmark/test/die_obverse_beard_0001a/L0045D.ply
+angle_deg=120
+trans_norm=1
+noise_sigma=0
+seed=42
+max_iter=1
+k_neighbors=20
+epsilon=0.001
+gt_r00=-0.33675 gt_r01=-0.932794 gt_r02=0.12843
+gt_r10=0.58425 gt_r11=-0.313961 gt_r12=-0.748386
+gt_r20=0.738412 gt_r21=-0.176984 gt_r22=0.650711
+gt_t=-0.118432 -0.874622 -0.470118
+icp_iter=1 icp_ms=1729.95
+gicp_iter=1 gicp_ms=6243.13 cov_ms=25069.5

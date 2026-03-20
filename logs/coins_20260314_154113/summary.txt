@@ -1,0 +1,7 @@
+dataset_root=Riedones3D_Registration_Benchmark/test
+pairs=4316
+methods=icp,gicp
+max_iter=100
+k_neighbors=20
+epsilon=0.001
+sample_ratio=0.1
