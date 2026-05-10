@@ -1,5 +1,7 @@
 # Is Plane-to-Plane ICP really usefull ?
 
+complete study of Generalized ICP for rigid registration of 3D point clouds. Implemented using the Gauss-Newton algorithm with Lie algebra updates. I evaluated the method on the Riedones3D coin benchmark.
+
 <table>
   <tr>
     <td align="center">
